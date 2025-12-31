@@ -1,2 +1,8 @@
-# spinfun-wheel
-The first fully interactive spinning wheel for Pump.fun. Built on Solana, designed for community rewards and live stream engagement. 🎡🚀
+# 🎡 SpinFun - Interactive Wheel
+
+This is the official interactive wheel for the **$SPIN** token on Solana.
+
+### 🚀 Features:
+- **Live Interaction:** Users join via chat.
+- **Fair Spins:** Built with transparent logic.
+- **Pump.fun Ready:** Integrated for the $SPIN community launch.
