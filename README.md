@@ -6,3 +6,7 @@ This is the official interactive wheel for the **$SPIN** token on Solana.
 - **Live Interaction:** Users join via chat.
 - **Fair Spins:** Built with transparent logic.
 - **Pump.fun Ready:** Integrated for the $SPIN community launch.
+
+## 🔗 Connect with us
+- **Twitter (X):** [Follow @SpinFunSol](https://x.com/SpinFunSol)
+- **Telegram:** [Join the Community](https://t.me/SpinFunSol)
